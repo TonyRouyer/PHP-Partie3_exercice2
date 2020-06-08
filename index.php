@@ -9,7 +9,7 @@
     <?php
         $nb1 = 0;
         $nb2 = 4;
-        while ($nb3 < 20) {
+        while ($somme < 20) {
             $somme = $nb1 * $nb2;
             echo '<p>' . $somme . '</p>';
             $nb1++;
